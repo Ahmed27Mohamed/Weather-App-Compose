@@ -9,7 +9,7 @@ All the UI/UX design references were taken from a Figma prototype, which guided 
 # ScreenShots
 | Home | Home |
 |------|------|
-| ![Home](1.png) | ![Home](2.png) |
+| ![Home](https://github.com/Ahmed27Mohamed/Weather-App-Compose/blob/main/1.jpg) | ![Home](https://github.com/Ahmed27Mohamed/Weather-App-Compose/blob/main/1.jpg) |
 
 # Design Reference 🎨
 All screens were inspired and implemented based on a Figma design
