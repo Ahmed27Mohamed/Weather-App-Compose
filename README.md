@@ -7,13 +7,13 @@ The app was fully implemented using Jetpack Compose for the UI and follows Clean
 All the UI/UX design references were taken from a Figma prototype, which guided the final layout and animations.
 
 # ScreenShots
-| Home | Details | Search |
-|------|----------|---------|
-| ![Home](screenshots/home.png) | ![Details](screenshots/details.png) | ![Search](screenshots/search.png) |
+| Home | Home |
+|------|------|
+| ![Home](1.png) | ![Home](2.png) |
 
-🎨 Design Reference
+# Design Reference 🎨
 All screens were inspired and implemented based on a Figma design
 
-🧑‍💻 Author
+# Author 🧑‍💻
 Ahmed Mohamed
 Android Developer | Kotlin & Jetpack Compose Enthusiast
